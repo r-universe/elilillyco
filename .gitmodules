@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "TSDT"]
+	path = TSDT
+	url = https://github.com/elilillyco/cran_tsdt
+	subdir = TSDT
 [submodule "rfacts"]
 	path = rfacts
 	url = https://github.com/elilillyco/rfacts
